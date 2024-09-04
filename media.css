@@ -1,0 +1,240 @@
+@media screen and (max-width: 1392px) {
+  header {
+    width: 95%;
+    transition: .2s linear;
+  }
+
+  header .menu_side {
+    width: 30%;
+  }
+
+  header .song_side {
+    width: 70%;
+  }
+
+  header .song_side .content {
+    height: 18%;
+  }
+}
+
+@media screen and (max-width: 1020px) {
+  header .menu_side {
+    width: 35%;
+  }
+
+  header .song_side nav .search {
+    width: auto;
+  }
+
+  header .song_side nav {
+    height: 8%;
+  }
+
+  header .song_side {
+    width: 65%;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  header .song_side {
+    width: 100%;
+  }
+
+  header .menu_side {
+    transition: .5s linear;
+    position: absolute;
+    width: 46%;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(16px);
+    border-radius: 10px;
+    /* transform: translateX(-100%); */
+  }
+
+  header .menu_side_active {}
+
+  header .menu_side h6 {
+    position: absolute;
+    right: -40px;
+    bottom: 10px;
+    width: 40px;
+    height: 40px;
+    /* border: 1px solid white; */
+    background-color: #11172751;
+    backdrop-filter: blur(16px);
+    color: #f0efef;
+    border-radius: 0 10px 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s linear;
+  }
+}
+
+
+@media screen and (max-width: 680px) {
+  header {
+    width: 95%;
+    height: 100vh;
+  }
+
+  header .menu_side {
+    width: 60%;
+  }
+
+  header .song_side nav ul li {
+    margin-right: 10px;
+    font-size: 14px;
+  }
+
+  header .song_side nav .search {
+    width: auto;
+    padding: 0px;
+  }
+
+  header .play_side {
+    position: absolute;
+    bottom: 20px;
+  }
+
+}
+
+@media screen and (max-width: 800px) {
+  header .play_side .icon {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: -41px;
+    background: rgb(184, 184, 184, .1);
+    backdrop-filter: blur(10px);
+    border-radius: 5px 5px 0px 0px;
+    padding: 5px;
+    transition: .6s linear;
+  }
+
+  header .song_side nav .search input {
+    padding: 0px;
+  }
+
+  header .play_side .wave {
+    align-items: center;
+    padding-bottom: 0px;
+    position: absolute;
+    top: -87px;
+    right: 45%;
+    margin-top: 10px;
+    justify-content: center;
+    width: 40px;
+    height: 36px;
+    background: rgb(184, 184, 184, .1);
+    backdrop-filter: blur(10px);
+    backdrop-filter: blur(16px);
+    border-radius: 5px 5px 0px 0px;
+    transition: .6s linear;
+  }
+ 
+ 
+  header .play_side .wave .wave1 {
+    height: 15px;
+    width: 5px;
+    border-radius: 10px 10px 10px 10px;
+  }
+
+  header .play_side .wave .wave1:nth-child(2) {
+    height: 10px;
+  }
+
+  header .play_side .wave .wave1:nth-child(3) {
+    height: 15px;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  header .play_side .wave {
+    right: 44.6%;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  header .play_side .wave {
+    right: 44%;
+  }
+}
+
+@media screen and (max-width: 625px) {
+  header .play_side .wave {
+    right: 43%;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  header .play_side .wave {
+    right: 43%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  header .menu_side {
+  width: 70%;
+}
+}
+
+@media screen and (max-width: 466px) {
+  header .play_side .wave {
+    right: 41%;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  header .menu_side {
+  width: 90%;
+}
+}
+
+@media screen and (max-width: 340px) {
+  header .menu_side {
+  width: 100%;
+}
+}
+
+@media screen and (max-width: 440px) {
+  header .play_side .wave {
+    right: 40%;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  header .play_side .wave {
+    right: 37%;
+  }
+
+  header .song_side nav .search {
+    width: auto;
+    padding: 0px;
+  }
+
+  header .song_side nav .search .bi {
+    font-size: 13px;
+    padding: 3px 0px 0px 3px;
+  }
+}
+
+@media screen and (max-width: 364px) {
+  header .song_side nav .search .bi {
+    font-size: 13px;
+    padding: 3px 0px 0px 3px;
+  }
+}
+
+@media screen and (max-width: 220px) {
+  header .play_side .wave {
+    right: 30%;
+  }
+}
+
+@media screen and (max-width: 110px) {
+  header .play_side .wave {
+    right: 15%;
+  }
+}

@@ -35,9 +35,3 @@ This project includes a playlist section, custom audio controls, and a modern mu
 🌐 [GitHub](https://github.com/dotsatya)  
 📧 satyasundardey4@gmail.com
 
----
-
-## 📄 License
-
-This project is open-source and free for educational or personal use.  
-Feel free to fork, explore, and learn!

